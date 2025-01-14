@@ -13,9 +13,7 @@ The Bookinfo App is a microservices-based application deployed on AWS EKS, utili
 
 ---
 
-## Architecture
 
-![architecture](screenshots/architecture_diagram.png)
 
 ### Key Components:
 - **AWS EKS**: Managed Kubernetes for scalable microservices orchestration.
